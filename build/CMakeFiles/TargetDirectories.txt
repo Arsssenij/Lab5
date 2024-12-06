@@ -1,0 +1,3 @@
+D:/univer/Lab5/build/CMakeFiles/physics.dir
+D:/univer/Lab5/build/CMakeFiles/edit_cache.dir
+D:/univer/Lab5/build/CMakeFiles/rebuild_cache.dir
