@@ -1,3 +1,9 @@
 D:/univer/Lab5/build/CMakeFiles/physics.dir
+D:/univer/Lab5/build/CMakeFiles/package.dir
+D:/univer/Lab5/build/CMakeFiles/package_source.dir
 D:/univer/Lab5/build/CMakeFiles/edit_cache.dir
 D:/univer/Lab5/build/CMakeFiles/rebuild_cache.dir
+D:/univer/Lab5/build/CMakeFiles/list_install_components.dir
+D:/univer/Lab5/build/CMakeFiles/install.dir
+D:/univer/Lab5/build/CMakeFiles/install/local.dir
+D:/univer/Lab5/build/CMakeFiles/install/strip.dir
